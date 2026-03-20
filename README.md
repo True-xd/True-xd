@@ -1,16 +1,42 @@
-## Hi there 👋
+👋 Hi, I'm Vishesh
+Student |  AI Enthusiast | Developer
 
-<!--
-**True-xd/True-xd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate student exploring the world of Artificial Intelligence and software development. I enjoy building projects that combine creativity with problem-solving, and I'm constantly learning new technologies to improve my skills.
 
-Here are some ideas to get you started:
+# About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Current Work: Working on AI-based projects.
+
+* Learning: Machine Learning and its real-world applications.
+
+* Interests: Building smart, efficient, and scalable solutions.
+
+* Goal: Become a skilled developer and contribute to impactful projects.
+
+# Tech Stack
+
+* Languages: Python, JavaScript, C++
+  
+* Tools & Frameworks: Git, GitHub, VS Code
+
+* Areas of Interest: Artificial Intelligence, Web Development
+
+# Projects
+* AI-based project: ML model / automation tool.
+
+* Web development project: Building functional web apps.
+
+* Data analysis project: Processing and visualizing data.
+
+* Mini ML projects: Exploring machine learning basics.
+
+* Problem-solving: Algorithm-based projects.
+(More coming soon...)
+
+# Connect With Me
+
+* Open to collaboration and learning opportunities.
+
+* Reach me via GitHub or add your socials here.
+
+* “Learning, building, and improving every day.”
