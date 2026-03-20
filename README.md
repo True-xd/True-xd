@@ -31,6 +31,6 @@ I'm a passionate student exploring the world of Artificial Intelligence and soft
 
 * Open to collaboration and learning opportunities.
 
-* Reach me via GitHub or add your socials here.
+* Reach me via GitHub.
 
 * “code with vibe, code for life.”
