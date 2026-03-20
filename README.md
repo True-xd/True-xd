@@ -26,7 +26,6 @@ I'm a passionate student exploring the world of Artificial Intelligence and soft
 * Mini ML projects: Exploring machine learning basics.
 
 * Problem-solving: Algorithm-based projects.
-(More coming soon...)
 
 # Connect With Me
 
@@ -34,4 +33,4 @@ I'm a passionate student exploring the world of Artificial Intelligence and soft
 
 * Reach me via GitHub or add your socials here.
 
-* “Learning, building, and improving every day.”
+* “code with vibe, code for life.”
