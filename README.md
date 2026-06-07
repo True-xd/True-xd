@@ -15,27 +15,23 @@ I'm a passionate student exploring the world of Artificial Intelligence and soft
 
 # 💻 Tech Stack:
 
-🎮 Game Development
-Godot • Unity • Unreal Engine
+* 🎮 Game Development
+(Unity, Unreal, Godot)
 
-🧠 AI & Data Science
-NumPy • Pandas • TensorFlow
+* 🧠 AI & Data
+(NumPy, Pandas, TensorFlow)
 
-🗄️ Backend & Databases
-MySQL • MongoDB • SQLite • Firebase • Supabase
+* 🗄️ Backend
+(MySQL, MongoDB, Firebase)
 
-💻 Languages
-C • C++ • C# • Python • JavaScript
+* 💻 Languages
+(C, C++, C#, Python, JavaScript)
 
-🎨 Creative Tools
-Blender
+* 🎨 Creative
+(Blender, Adobe, Canva)
 
-🛠️ Development Tools
-Git • GitHub
-
-## Tools:
-
-Git • GitHub • Blender
+* Tools:
+(Git • GitHub • Blender)
 
 # Projects
 * AI-based project: ML model / automation tool.
